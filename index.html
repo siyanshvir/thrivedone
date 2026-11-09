@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en" class="scroll-smooth">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Thrive | Wellness That Works</title>
+    <meta name="description" content="Unlock your peak performance with Thrive's premium, science-backed wellness supplements. Natural ingredients, third-party tested, and designed for those who demand more." />
+    <meta name="keywords" content="wellness supplements, natural supplements, protein powder, nootropics, sleep supplements, hydration, fitness supplements" />
+    <meta name="author" content="Thrive VE International" />
+    <link rel="canonical" href="https://www.thrive-ve.com/" />
+    <meta name="robots" content="noindex, nofollow" />
+
+    <meta property="og:title" content="Thrive | Wellness That Works" />
+    <meta property="og:description" content="Premium supplements designed for those who demand more from life. Science-backed, 100% natural, third-party tested." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://www.thrive-ve.com/" />
+    <meta property="og:image" content="https://quygevwkhlggdifdqqto.supabase.co/storage/v1/object/public/WebsiteLink/ThriveSocial.jpg" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Thrive | Wellness That Works" />
+    <meta name="twitter:description" content="Premium supplements designed for those who demand more from life." />
+    <meta name="twitter:image" content="https://quygevwkhlggdifdqqto.supabase.co/storage/v1/object/public/WebsiteLink/ThriveSocial.jpg" />
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" sizes="32x32" href="https://quygevwkhlggdifdqqto.supabase.co/storage/v1/object/public/WebsiteLink/Thrive.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="https://quygevwkhlggdifdqqto.supabase.co/storage/v1/object/public/WebsiteLink/Thrive.png" />
+    <link rel="shortcut icon" href="https://quygevwkhlggdifdqqto.supabase.co/storage/v1/object/public/WebsiteLink/Thrive.png" />
+    
+    <!-- Google Analytics 4 -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=%VITE_GA4_MEASUREMENT_ID%"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', '%VITE_GA4_MEASUREMENT_ID%', {
+        send_page_view: false // We'll handle page views in React Router
+      });
+    </script>
+    
+    <!-- Code Protection -->
+    <script>
+      // Disable right-click
+      document.addEventListener('contextmenu', (e) => {
+        e.preventDefault();
+        return false;
+      });
+      
+      // Disable common keyboard shortcuts for viewing source
+      document.addEventListener('keydown', (e) => {
+        // Disable F12, Ctrl+Shift+I, Ctrl+Shift+J, Ctrl+U
+        if (
+          e.keyCode === 123 || // F12
+          (e.ctrlKey && e.shiftKey && e.keyCode === 73) || // Ctrl+Shift+I
+          (e.ctrlKey && e.shiftKey && e.keyCode === 74) || // Ctrl+Shift+J
+          (e.ctrlKey && e.keyCode === 85) // Ctrl+U
+        ) {
+          e.preventDefault();
+          return false;
+        }
+      });
+    </script>
+  </head>
+
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
