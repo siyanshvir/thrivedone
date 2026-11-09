@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /checkout-manual
+Disallow: /checkout-processing
+Disallow: /cart-test
+sitemap: https://thrive-ve.com/sitemap.xml
