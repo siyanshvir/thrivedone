@@ -1,0 +1,20 @@
+{
+  "nav.home": "Accueil",
+  "nav.shop": "Boutique",
+  "nav.about": "À propos",
+  "nav.contact": "Contact",
+  "nav.cart": "Panier",
+  "hero.title": "Thrive Social",
+  "hero.subtitle": "Produits de bien-être premium pour une vie meilleure",
+  "hero.cta": "Acheter Maintenant",
+  "product.addToCart": "Ajouter au Panier",
+  "product.outOfStock": "Rupture de Stock",
+  "product.price": "Prix",
+  "cart.empty": "Votre panier est vide",
+  "cart.total": "Total",
+  "cart.checkout": "Payer",
+  "footer.rights": "Tous droits réservés",
+  "common.loading": "Chargement...",
+  "common.error": "Erreur",
+  "common.success": "Succès"
+}

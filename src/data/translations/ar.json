@@ -1,0 +1,20 @@
+{
+  "nav.home": "الرئيسية",
+  "nav.shop": "المتجر",
+  "nav.about": "من نحن",
+  "nav.contact": "اتصل بنا",
+  "nav.cart": "السلة",
+  "hero.title": "Thrive Social",
+  "hero.subtitle": "منتجات صحية متميزة لحياة أفضل",
+  "hero.cta": "تسوق الآن",
+  "product.addToCart": "أضف إلى السلة",
+  "product.outOfStock": "نفذ من المخزون",
+  "product.price": "السعر",
+  "cart.empty": "سلتك فارغة",
+  "cart.total": "المجموع",
+  "cart.checkout": "الدفع",
+  "footer.rights": "جميع الحقوق محفوظة",
+  "common.loading": "جاري التحميل...",
+  "common.error": "خطأ",
+  "common.success": "نجاح"
+}

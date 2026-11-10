@@ -1,0 +1,20 @@
+{
+  "nav.home": "Startseite",
+  "nav.shop": "Shop",
+  "nav.about": "Über uns",
+  "nav.contact": "Kontakt",
+  "nav.cart": "Warenkorb",
+  "hero.title": "Thrive Social",
+  "hero.subtitle": "Premium-Wellnessprodukte für ein besseres Leben",
+  "hero.cta": "Jetzt Einkaufen",
+  "product.addToCart": "In den Warenkorb",
+  "product.outOfStock": "Ausverkauft",
+  "product.price": "Preis",
+  "cart.empty": "Ihr Warenkorb ist leer",
+  "cart.total": "Gesamt",
+  "cart.checkout": "Zur Kasse",
+  "footer.rights": "Alle Rechte vorbehalten",
+  "common.loading": "Laden...",
+  "common.error": "Fehler",
+  "common.success": "Erfolg"
+}

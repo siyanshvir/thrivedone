@@ -1,0 +1,20 @@
+{
+  "nav.home": "होम",
+  "nav.shop": "दुकान",
+  "nav.about": "हमारे बारे में",
+  "nav.contact": "संपर्क करें",
+  "nav.cart": "कार्ट",
+  "hero.title": "Thrive Social",
+  "hero.subtitle": "बेहतर जीवन के लिए प्रीमियम वेलनेस उत्पाद",
+  "hero.cta": "अभी खरीदें",
+  "product.addToCart": "कार्ट में जोड़ें",
+  "product.outOfStock": "स्टॉक में नहीं",
+  "product.price": "कीमत",
+  "cart.empty": "आपकी कार्ट खाली है",
+  "cart.total": "कुल",
+  "cart.checkout": "चेकआउट",
+  "footer.rights": "सर्वाधिकार सुरक्षित",
+  "common.loading": "लोड हो रहा है...",
+  "common.error": "त्रुटि",
+  "common.success": "सफलता"
+}

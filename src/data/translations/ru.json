@@ -1,0 +1,20 @@
+{
+  "nav.home": "Главная",
+  "nav.shop": "Магазин",
+  "nav.about": "О нас",
+  "nav.contact": "Контакты",
+  "nav.cart": "Корзина",
+  "hero.title": "Thrive Social",
+  "hero.subtitle": "Премиальные товары для здоровья и лучшей жизни",
+  "hero.cta": "Купить сейчас",
+  "product.addToCart": "Добавить в корзину",
+  "product.outOfStock": "Нет в наличии",
+  "product.price": "Цена",
+  "cart.empty": "Ваша корзина пуста",
+  "cart.total": "Итого",
+  "cart.checkout": "Оформить заказ",
+  "footer.rights": "Все права защищены",
+  "common.loading": "Загрузка...",
+  "common.error": "Ошибка",
+  "common.success": "Успех"
+}

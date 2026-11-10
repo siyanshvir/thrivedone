@@ -1,0 +1,20 @@
+{
+  "nav.home": "홈",
+  "nav.shop": "쇼핑",
+  "nav.about": "소개",
+  "nav.contact": "연락처",
+  "nav.cart": "장바구니",
+  "hero.title": "Thrive Social",
+  "hero.subtitle": "더 나은 삶을 위한 프리미엄 웰니스 제품",
+  "hero.cta": "지금 쇼핑하기",
+  "product.addToCart": "장바구니에 추가",
+  "product.outOfStock": "품절",
+  "product.price": "가격",
+  "cart.empty": "장바구니가 비어 있습니다",
+  "cart.total": "합계",
+  "cart.checkout": "결제",
+  "footer.rights": "모든 권리 보유",
+  "common.loading": "로딩 중...",
+  "common.error": "오류",
+  "common.success": "성공"
+}

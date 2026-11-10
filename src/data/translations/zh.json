@@ -1,0 +1,20 @@
+{
+  "nav.home": "首页",
+  "nav.shop": "商店",
+  "nav.about": "关于",
+  "nav.contact": "联系",
+  "nav.cart": "购物车",
+  "hero.title": "Thrive Social",
+  "hero.subtitle": "优质健康产品，让生活更美好",
+  "hero.cta": "立即购买",
+  "product.addToCart": "加入购物车",
+  "product.outOfStock": "缺货",
+  "product.price": "价格",
+  "cart.empty": "您的购物车是空的",
+  "cart.total": "总计",
+  "cart.checkout": "结账",
+  "footer.rights": "版权所有",
+  "common.loading": "加载中...",
+  "common.error": "错误",
+  "common.success": "成功"
+}

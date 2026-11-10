@@ -1,0 +1,20 @@
+{
+  "nav.home": "ホーム",
+  "nav.shop": "ショップ",
+  "nav.about": "会社概要",
+  "nav.contact": "お問い合わせ",
+  "nav.cart": "カート",
+  "hero.title": "Thrive Social",
+  "hero.subtitle": "より良い生活のためのプレミアムウェルネス製品",
+  "hero.cta": "今すぐ購入",
+  "product.addToCart": "カートに追加",
+  "product.outOfStock": "在庫切れ",
+  "product.price": "価格",
+  "cart.empty": "カートは空です",
+  "cart.total": "合計",
+  "cart.checkout": "チェックアウト",
+  "footer.rights": "全著作権所有",
+  "common.loading": "読み込み中...",
+  "common.error": "エラー",
+  "common.success": "成功"
+}
