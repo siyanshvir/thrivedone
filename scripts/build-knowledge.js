@@ -717,12 +717,12 @@ RESPONSE TIME:
 We typically respond to all inquiries within 24-48 business hours.
 
 DEPARTMENTS:
-- Sales Team (CSO Vinanya Penumadula): Product inquiries and orders
-- Marketing Team (CMO Mary Howard): Partnerships and collaborations
+- Sales Team (CSO removedforprivacyreasons): Product inquiries and orders
+- Marketing Team (CMO removedforprivacyreasons): Partnerships and collaborations
 - Customer Service: General questions and support
-- Accounting (CFO Lily Elsea): Billing and financial inquiries
-- Creative (CDO Hita Khandelwal): Design and branding questions
-- HR (Ethan Hsu, Munis Kodirova, Ryan Lucas): Career inquiries
+- Accounting (CFO removedforprivacyreasons): Billing and financial inquiries
+- Creative (CDO removedforprivacyreasons): Design and branding questions
+- HR (removedforprivacyreasons, removedforprivacyreasons, removedforprivacyreasons): Career inquiries
 
 For urgent matters, please email us directly at thrivewellness.il@veinternational.org
 `
@@ -738,23 +738,23 @@ THRIVE WELLNESS LEADERSHIP TEAM
 
 EXECUTIVE LEADERSHIP:
 
-Alice Ho - Chief Executive Officer (CEO)
-Leading Thrive's vision with passion for wellness. Alice oversees all company operations and strategic direction.
+removedforprivacyreasons - Chief Executive Officer (CEO)
+Leading Thrive's vision with passion for wellness. removedforprivacyreasons oversees all company operations and strategic direction.
 
-Lily Elsea - Chief Financial Officer (CFO)
-Overseeing financial strategy and growth. Lily leads the Accounting department and manages all financial operations.
+removedforprivacyreasons - Chief Financial Officer (CFO)
+Overseeing financial strategy and growth. removedforprivacyreasons leads the Accounting department and manages all financial operations.
 
-Hita Khandelwal - Chief Design Officer (CDO)
-Shaping visual identity and UX. Hita leads the Creative department and is responsible for all design and branding.
+removedforprivacyreasons - Chief Design Officer (CDO)
+Shaping visual identity and UX. removedforprivacyreasons leads the Creative department and is responsible for all design and branding.
 
-Macy Evans - Chief Administrative Officer (CAO)
-Ensuring operational excellence. Macy manages day-to-day operations and administrative functions.
+removedforprivacyreasons - Chief Administrative Officer (CAO)
+Ensuring operational excellence. removedforprivacyreasons manages day-to-day operations and administrative functions.
 
-Mary Howard - Chief Marketing Officer (CMO)
-Driving brand awareness. Mary leads the Marketing department and oversees all promotional activities.
+removedforprivacyreasons - Chief Marketing Officer (CMO)
+Driving brand awareness. removedforprivacyreasons leads the Marketing department and oversees all promotional activities.
 
-Vinanya Penumadula - Chief Sales Officer (CSO)
-Leading sales initiatives. Vinanya heads the Sales department and manages customer relationships.
+removedforprivacyreasons - Chief Sales Officer (CSO)
+Leading sales initiatives. removedforprivacyreasons heads the Sales department and manages customer relationships.
 `
   });
 
@@ -763,29 +763,29 @@ Leading sales initiatives. Vinanya heads the Sales department and manages custom
     content: `
 THRIVE WELLNESS DEPARTMENTS
 
-ACCOUNTING DEPARTMENT (Led by CFO Lily Elsea):
-- Ansh Jain - Financial Analyst: Crunching numbers and forecasting growth with precision
+ACCOUNTING DEPARTMENT (Led by CFO removedforprivacyreasons):
+- removedforprivacyreasons - Financial Analyst: Crunching numbers and forecasting growth with precision
 - Siyansh Virmani - Accountant: Keeping the books balanced and the finances flowing
-- Alex Wohlfahrt - Financial Associate: Supporting financial operations with attention to detail
+- removedforprivacyreasons - Financial Associate: Supporting financial operations with attention to detail
 
-CREATIVE DEPARTMENT (Led by CDO Hita Khandelwal):
-- Ronika Gajulapalli - Graphic Designer: Bringing bold ideas to life through stunning visuals
-- Grace Helbing - UX/UI Designer: Crafting seamless experiences that users love
-- Eshan Khan - Creative Director: Leading creative vision with innovation and style
+CREATIVE DEPARTMENT (Led by CDO removedforprivacyreasons):
+- removedforprivacyreasons - Graphic Designer: Bringing bold ideas to life through stunning visuals
+- removedforprivacyreasons - UX/UI Designer: Crafting seamless experiences that users love
+- removedforprivacyreasons - Creative Director: Leading creative vision with innovation and style
 
-SALES DEPARTMENT (Led by CSO Vinanya Penumadula):
-- Dumitru Busuioc - Sales Representative: Building relationships and closing deals with confidence
-- Ishaan Manoor - Sales Person: Driving revenue and connecting with customers
+SALES DEPARTMENT (Led by CSO removedforprivacyreasons):
+- removedforprivacyreasons - Sales Representative: Building relationships and closing deals with confidence
+- removedforprivacyreasons - Sales Person: Driving revenue and connecting with customers
 
-MARKETING DEPARTMENT (Led by CMO Mary Howard):
-- Reece Clavey - Marketing Specialist: Creating campaigns that resonate and convert
-- Eshanvi Sharma - Digital Marketer: Mastering social media and digital engagement
-- Carter Shaw - Content Strategist: Telling stories that captivate and inspire action
+MARKETING DEPARTMENT (Led by CMO removedforprivacyreasons):
+- removedforprivacyreasons - Marketing Specialist: Creating campaigns that resonate and convert
+- removedforprivacyreasons - Digital Marketer: Mastering social media and digital engagement
+- removedforprivacyreasons - Content Strategist: Telling stories that captivate and inspire action
 
 HUMAN RESOURCES DEPARTMENT:
-- Ethan Hsu - HR Specialist: Nurturing talent and fostering a positive culture
-- Munis Kodirova - Talent Acquisition: Finding the best people to join our mission
-- Ryan Lucas - HR Coordinator: Keeping the team organized and supported
+- removedforprivacyreasons - HR Specialist: Nurturing talent and fostering a positive culture
+- removedforprivacyreasons - Talent Acquisition: Finding the best people to join our mission
+- removedforprivacyreasons - HR Coordinator: Keeping the team organized and supported
 
 Total Team Members: 20 dedicated professionals
 `
@@ -880,7 +880,7 @@ Q: What are your business hours?
 A: Monday - Friday, 9AM - 5PM CST.
 
 Q: Who is the CEO?
-A: Alice Ho is our Chief Executive Officer.
+A: removedforprivacyreasons is our Chief Executive Officer.
 
 Q: What's your most popular product?
 A: Peak Powder Chocolate and The Iceberg water bottle are customer favorites!

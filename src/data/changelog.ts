@@ -538,7 +538,7 @@ export const changelogData = [
       "Moved product detail page content down more on mobile - increased top padding to pt-48 (mobile), pt-40 (tablet), pt-36 (desktop).",
       "Redesigned 'Explore More' section on product detail page - now shows text list of variants instead of images for faster loading.",
       "Variant list shows product name, color, price, and color swatch without loading images.",
-      "Updated team page roles: Grace Helbing changed to 'Graphic Designer'.",
+      "Updated team page roles: removedforprivacyreasons changed to 'Graphic Designer'.",
       "Centered Sales department members (2 people) with max-width constraint for better visual balance.",
       "Removed image caching issues by keeping original image URLs without cache-busting timestamps.",
       "Improved overall site performance and responsiveness across all device sizes."
@@ -692,7 +692,7 @@ export const changelogData = [
       "Added cache-busting to product images - images now reload from Supabase on every page navigation.",
       "Fixed issue where phased out water bottle variants still appeared on product line pages despite being removed from shop.",
       "Ensured product management status changes propagate to all product pages, not just the main shop page.",
-      "Change Blue Razzberry images and fix sql for Supabase (water bottles got mislabeled) (Ishaan)"
+      "Change Blue Razzberry images and fix sql for Supabase (water bottles got mislabeled) (removedforprivacyreasons)"
     ]
   },
   {

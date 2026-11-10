@@ -5,83 +5,83 @@ import { cn } from "@/lib/utils";
 
 // Team images from local public folder
 const teamImageUrls: { [key: string]: string } = {
-  "AlexWohlfahrt": "/team/AlexWohlfahrt.jpg",
-  "AliceHo": "/team/AliceHo.jpg",
-  "AnshJain": "/team/AnshJain.jpg",
-  "CarterShaw": "/team/CarterShaw.jpg",
-  "DumitruBusuioc": "/team/DumitruBusuioc.jpg",
-  "EshanviSharma": "/team/EshanviSharma.jpg",
-  "EthanHsu": "/team/EthanHsu.jpg",
-  "GraceHelbing": "/team/GraceHelbing.jpg",
-  "HitaKhandelwal": "/team/HitaKhandelwal.jpg",
-  "IshaanManoor": "/team/IshaanManoor.jpg",
-  "LilyElsea": "/team/LilyElsea.jpg",
-  "MacyEvans": "/team/MacyEvans.jpg",
-  "MaryHoward": "/team/MaryHoward.jpg",
-  "MunisKodirova": "/team/MunisKodirova.jpg",
-  "ReeceClavey": "/team/ReeceClavey.jpg",
-  "RonikaGajulapalli": "/team/RonikaGajulapalli.jpg",
-  "RyanLucas": "/team/RyanLucas.jpg",
+  "member1": "/team/removedforprivacyreasons.jpg",
+  "member2": "/team/removedforprivacyreasons.jpg",
+  "member3": "/team/removedforprivacyreasons.jpg",
+  "member4": "/team/removedforprivacyreasons.jpg",
+  "member5": "/team/removedforprivacyreasons.jpg",
+  "member7": "/team/removedforprivacyreasons.jpg",
+  "member8": "/team/removedforprivacyreasons.jpg",
+  "member9": "/team/removedforprivacyreasons.jpg",
+  "member10": "/team/removedforprivacyreasons.jpg",
+  "member11": "/team/removedforprivacyreasons.jpg",
+  "member12": "/team/removedforprivacyreasons.jpg",
+  "member13": "/team/removedforprivacyreasons.jpg",
+  "member14": "/team/removedforprivacyreasons.jpg",
+  "member15": "/team/removedforprivacyreasons.jpg",
+  "member16": "/team/removedforprivacyreasons.jpg",
+  "member17": "/team/removedforprivacyreasons.jpg",
+  "member18": "/team/removedforprivacyreasons.jpg",
   "SiyanshVirmani": "/team/SiyanshVirmani.jpg",
-  "VinanyaPenumadula": "/team/VinanyaPenumadula.jpg",
+  "member19": "/team/removedforprivacyreasons.jpg",
 };
 
 const allTeamImages = [
-  teamImageUrls["AliceHo"], teamImageUrls["LilyElsea"], teamImageUrls["HitaKhandelwal"],
-  teamImageUrls["MacyEvans"], teamImageUrls["MaryHoward"], teamImageUrls["VinanyaPenumadula"],
-  teamImageUrls["AnshJain"], teamImageUrls["SiyanshVirmani"], teamImageUrls["AlexWohlfahrt"],
-  teamImageUrls["RonikaGajulapalli"], teamImageUrls["GraceHelbing"],
-  teamImageUrls["DumitruBusuioc"], teamImageUrls["IshaanManoor"], teamImageUrls["ReeceClavey"],
-  teamImageUrls["EshanviSharma"], teamImageUrls["CarterShaw"], teamImageUrls["EthanHsu"],
-  teamImageUrls["MunisKodirova"], teamImageUrls["RyanLucas"]
+  teamImageUrls["member2"], teamImageUrls["member12"], teamImageUrls["member10"],
+  teamImageUrls["member13"], teamImageUrls["member14"], teamImageUrls["member19"],
+  teamImageUrls["member3"], teamImageUrls["SiyanshVirmani"], teamImageUrls["member1"],
+  teamImageUrls["member17"], teamImageUrls["member9"],
+  teamImageUrls["member5"], teamImageUrls["member11"], teamImageUrls["member16"],
+  teamImageUrls["member7"], teamImageUrls["member4"], teamImageUrls["member8"],
+  teamImageUrls["member15"], teamImageUrls["member18"]
 ];
 
 const teamData = {
   leadership: [
-    { name: "Alice Ho", role: "CEO", img: teamImageUrls["AliceHo"], bio: "Leading Thrive's vision with passion for wellness.", department: "leadership" },
-    { name: "Lily Elsea", role: "CFO", img: teamImageUrls["LilyElsea"], bio: "Overseeing financial strategy and growth.", department: "accounting" },
-    { name: "Hita Khandelwal", role: "CDO", img: teamImageUrls["HitaKhandelwal"], bio: "Shaping visual identity and UX.", department: "creative" },
-    { name: "Macy Evans", role: "CAO", img: teamImageUrls["MacyEvans"], bio: "Ensuring operational excellence.", department: "leadership" },
-    { name: "Mary Howard", role: "CMO", img: teamImageUrls["MaryHoward"], bio: "Driving brand awareness.", department: "marketing" },
-    { name: "Vinanya Penumadula", role: "CSO", img: teamImageUrls["VinanyaPenumadula"], bio: "Leading sales initiatives.", department: "sales" },
+    { name: "removedforprivacyreasons", role: "CEO", img: teamImageUrls["member2"], bio: "Leading Thrive's vision with passion for wellness.", department: "leadership" },
+    { name: "removedforprivacyreasons", role: "CFO", img: teamImageUrls["member12"], bio: "Overseeing financial strategy and growth.", department: "accounting" },
+    { name: "removedforprivacyreasons", role: "CDO", img: teamImageUrls["member10"], bio: "Shaping visual identity and UX.", department: "creative" },
+    { name: "removedforprivacyreasons", role: "CAO", img: teamImageUrls["member13"], bio: "Ensuring operational excellence.", department: "leadership" },
+    { name: "removedforprivacyreasons", role: "CMO", img: teamImageUrls["member14"], bio: "Driving brand awareness.", department: "marketing" },
+    { name: "removedforprivacyreasons", role: "CSO", img: teamImageUrls["member19"], bio: "Leading sales initiatives.", department: "sales" },
   ],
   departments: [
     {
       name: "Accounting",
       members: [
-        { name: "Ansh Jain", role: "Financial Analyst", img: teamImageUrls["AnshJain"], bio: "Crunching numbers and forecasting growth with precision." },
+        { name: "removedforprivacyreasons", role: "Financial Analyst", img: teamImageUrls["member3"], bio: "Crunching numbers and forecasting growth with precision." },
         { name: "Siyansh Virmani", role: "Accountant", img: teamImageUrls["SiyanshVirmani"], bio: "Keeping the books balanced and the finances flowing." },
-        { name: "Alex Wohlfahrt", role: "Financial Associate", img: teamImageUrls["AlexWohlfahrt"], bio: "Supporting financial operations with attention to detail." },
+        { name: "removedforprivacyreasons", role: "Financial Associate", img: teamImageUrls["member1"], bio: "Supporting financial operations with attention to detail." },
       ]
     },
     {
       name: "Creative",
       members: [
-        { name: "Ronika Gajulapalli", role: "Graphic Designer", img: teamImageUrls["RonikaGajulapalli"], bio: "Bringing bold ideas to life through stunning visuals." },
-        { name: "Grace Helbing", role: "Graphic Designer", img: teamImageUrls["GraceHelbing"], bio: "Crafting seamless experiences that users love." },
+        { name: "removedforprivacyreasons", role: "Graphic Designer", img: teamImageUrls["member17"], bio: "Bringing bold ideas to life through stunning visuals." },
+        { name: "removedforprivacyreasons", role: "Graphic Designer", img: teamImageUrls["member9"], bio: "Crafting seamless experiences that users love." },
       ]
     },
     {
       name: "Sales",
       members: [
-        { name: "Dumitru Busuioc", role: "Sales Rep", img: teamImageUrls["DumitruBusuioc"], bio: "Building relationships and closing deals with confidence." },
-        { name: "Ishaan Manoor", role: "Sales Person", img: teamImageUrls["IshaanManoor"], bio: "Driving revenue and connecting with customers." },
+        { name: "removedforprivacyreasons", role: "Sales Rep", img: teamImageUrls["member5"], bio: "Building relationships and closing deals with confidence." },
+        { name: "removedforprivacyreasons", role: "Sales Person", img: teamImageUrls["member11"], bio: "Driving revenue and connecting with customers." },
       ]
     },
     {
       name: "Marketing",
       members: [
-        { name: "Reece Clavey", role: "Marketing Specialist", img: teamImageUrls["ReeceClavey"], bio: "Creating campaigns that resonate and convert." },
-        { name: "Eshanvi Sharma", role: "Digital Marketer", img: teamImageUrls["EshanviSharma"], bio: "Mastering social media and digital engagement." },
-        { name: "Carter Shaw", role: "Content Strategist", img: teamImageUrls["CarterShaw"], bio: "Telling stories that captivate and inspire action." },
+        { name: "removedforprivacyreasons", role: "Marketing Specialist", img: teamImageUrls["member16"], bio: "Creating campaigns that resonate and convert." },
+        { name: "removedforprivacyreasons", role: "Digital Marketer", img: teamImageUrls["member7"], bio: "Mastering social media and digital engagement." },
+        { name: "removedforprivacyreasons", role: "Content Strategist", img: teamImageUrls["member4"], bio: "Telling stories that captivate and inspire action." },
       ]
     },
     {
       name: "HR",
       members: [
-        { name: "Ethan Hsu", role: "HR Specialist", img: teamImageUrls["EthanHsu"], bio: "Nurturing talent and fostering a positive culture." },
-        { name: "Munis Kodirova", role: "Talent Acquisition", img: teamImageUrls["MunisKodirova"], bio: "Finding the best people to join our mission." },
-        { name: "Ryan Lucas", role: "HR Coordinator", img: teamImageUrls["RyanLucas"], bio: "Keeping the team organized and supported." },
+        { name: "removedforprivacyreasons", role: "HR Specialist", img: teamImageUrls["member8"], bio: "Nurturing talent and fostering a positive culture." },
+        { name: "removedforprivacyreasons", role: "Talent Acquisition", img: teamImageUrls["member15"], bio: "Finding the best people to join our mission." },
+        { name: "removedforprivacyreasons", role: "HR Coordinator", img: teamImageUrls["member18"], bio: "Keeping the team organized and supported." },
       ]
     },
   ]

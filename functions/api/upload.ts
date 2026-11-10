@@ -13,7 +13,7 @@
 interface Env {}
 
 // imgbb API key - get yours at https://api.imgbb.com/
-const IMGBB_API_KEY = "4c3c44f04422ee338ac6ae2e1e21b8b7";
+const IMGBB_API_KEY = "removedforprivacyreasons";
 
 export const onRequest: any = async (context: any) => {
   const { request, env } = context;
